@@ -1,0 +1,15 @@
+{
+  "name": "testteamweb",
+  "version": "0.0.1",
+  "description": "Test team for learning and making web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderbakun/testteamweb"
+  },
+  "author": "bakaleijan <alexanderbakun@gmail.com>",
+  "license": "MIT"
+}
